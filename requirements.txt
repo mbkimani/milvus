@@ -45,7 +45,7 @@ google-auth-oauthlib==1.0.0
 gpt-index==0.4.38
 gradio==3.23.0
 greenlet==2.0.2
-grpcio
+grpcio==1.47.5
 grpcio-tools==1.47.5
 h11==0.14.0
 hnswlib==0.7.0
